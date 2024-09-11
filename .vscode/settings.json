@@ -5,5 +5,6 @@
             "extensionName": ".main.min.css",
             "savePath": "/css"
         }
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
